@@ -1,2 +1,3 @@
 Paul's first version of the file
 Paul's second version of the file
+Alice makes changes to the file
